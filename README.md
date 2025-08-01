@@ -6,7 +6,7 @@ This repository is a collection of small projects to document as I learn to prog
 | Projects | Description | Link |
 | :---: | :---: | :---: |
 | Blinky | Blink built-in LED | [View Folder](./Blinky) |
-| POT Blinky | Blink external LED with variable speed using POT | |
+| POT Blinky | Blink external LED with variable speed using POT | [View Folder](./POT_blinky) |
 | Button | Read button input | |
 | DHT11 Sensor | Read temperature & humidity | |
 | Web Server | Host a web server on Pico W | |
